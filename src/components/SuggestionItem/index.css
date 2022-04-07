@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.gs-each-list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.gs-suggestion {
+  color: #475569;
+  font-size: 18px;
+}
+.gs-arrow-button {
+  background-color: transparent;
+  border: none;
+}
+.gs-arrow-icon {
+  width: 20px;
+}

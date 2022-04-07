@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.gs-main-bg {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  font-family: 'Roboto';
+}
+.gs-main-container {
+  max-width: 500px;
+}
+.gs-google-logo {
+  width: 250px;
+  padding: 30px;
+}
+.gs-search-card {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 15px;
+  padding: 20px;
+}
+.gs-search-container {
+  display: flex;
+  align-items: center;
+}
+.gs-search-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.gs-input-search {
+  border: none;
+  outline: none;
+  font-size: 18px;
+  color: #475569;
+}
+.gs-list-items-container {
+  list-style-type: none;
+  padding-left: 0;
+}
